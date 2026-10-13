@@ -1,0 +1,5 @@
+torch>=2.3
+transformers>=4.56
+opencv-python
+numpy
+pillow
